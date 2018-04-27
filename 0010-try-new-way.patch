@@ -1,0 +1,19 @@
+From be0ef07d5b2bbbad1d88009d2c6209dfce266b17 Mon Sep 17 00:00:00 2001
+From: Dimitar Georgiev <dimitar.georgiev@ffwagency.com>
+Date: Fri, 27 Apr 2018 13:04:39 +0300
+Subject: [PATCH 10/15] try new way
+
+---
+ Untitled Document | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Untitled Document b/Untitled Document
+index e69de29..488ecc2 100644
+--- a/Untitled Document	
++++ b/Untitled Document	
+@@ -0,0 +1 @@
++asdasdas
+\ No newline at end of file
+-- 
+2.17.0
+

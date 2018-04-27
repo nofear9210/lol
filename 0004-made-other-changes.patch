@@ -1,0 +1,16 @@
+From 4cf4ab5786a1b8536cd26f7cbba324de89cc1054 Mon Sep 17 00:00:00 2001
+From: Dimitar Georgiev <dimitar.georgiev@ffwagency.com>
+Date: Thu, 26 Apr 2018 17:03:13 +0300
+Subject: [PATCH 04/15] made other changes
+
+---
+ test.rb | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test.rb
+
+diff --git a/test.rb b/test.rb
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.17.0
+

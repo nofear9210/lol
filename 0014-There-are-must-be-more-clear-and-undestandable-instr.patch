@@ -1,0 +1,18 @@
+From 95ae0ae4ba687143611ad3a9e3b974c5f414508b Mon Sep 17 00:00:00 2001
+From: Dimitar Georgiev <dimitar.georgiev@ffwagency.com>
+Date: Fri, 27 Apr 2018 15:54:05 +0300
+Subject: [PATCH 14/15] There are must be more clear and undestandable
+ instructions for every commit that ive made not only two or three words for
+ better understanding of my coleges
+
+---
+ ccsdcsdcsd | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 ccsdcsdcsd
+
+diff --git a/ccsdcsdcsd b/ccsdcsdcsd
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.17.0
+

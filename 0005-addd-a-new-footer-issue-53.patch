@@ -1,0 +1,16 @@
+From ffd340071b4012e8f97ec66a71b9247e6891a4f9 Mon Sep 17 00:00:00 2001
+From: Dimitar Georgiev <dimitar.georgiev@ffwagency.com>
+Date: Thu, 26 Apr 2018 17:11:40 +0300
+Subject: [PATCH 05/15] addd a new footer [issue 53]
+
+---
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 index.html
+
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.17.0
+
